@@ -2,112 +2,131 @@
 
 **AIエージェント活用・業務自動化・Web運用・動画制作**
 
-AIエージェントを活用した開発、業務自動化、Web運用を継続的に実践している、Web・業務システム領域のエンジニアです。
+Web・業務システム開発を約3年経験し、現在はPython、WordPress、AIエージェントを使った開発や業務効率化に取り組んでいます。
 
-エンジニア実務経験は約3年で、AWS環境を利用したRPA・業務システム開発に約2年間携わりました。現在はPython、WordPress、AI駆動開発を中心に取り組んでいます。
+AWS環境を利用したRPA・業務システム開発には約2年間携わり、UiPath、VBA、VB.NET、C#などを使用してきました。
 
-SHIFT AIを主な継続学習環境として利用し、生成AI、AIエージェント、業務活用、セキュリティについて学んでいます。Claude Codeを活用したAIエージェント講座の受講をきっかけに実践を深め、現在はCodexを中心としたAI駆動開発に取り組んでいます。
+現在はSHIFT AIを主な学習環境として、生成AI、AIエージェントの業務活用、セキュリティについて継続的に学んでいます。Claude Codeを使ったAIエージェント講座をきっかけに実践を深め、現在はCodexを中心とした開発フローを取り入れています。
 
-AIの出力をそのまま採用せず、差分、テスト、実行結果、公式情報を人間が確認し、最終的な判断と品質管理を行う方針を重視しています。
+AIの提案は出発点として扱い、差分、テスト、実行結果、公式情報を確認したうえで採用しています。
+
+また、After Effectsを中心とした動画制作にも継続して取り組んできました。今後はAIエージェントやスクリプトを動画制作にも取り入れ、品質を保ちながら作業時間を短縮できる制作フローを形にしていく予定です。
 
 ---
 
-## Core Strengths
+## Strengths
 
-- AIエージェントを活用した開発・調査・文章作成・業務整理・自動化
-- Python、WordPress、RPAを使用したWeb・業務システム開発
-- Git、テスト、実行確認、公式情報との照合を含む品質管理
-- 機密情報、認証情報、公開範囲を意識した安全なAI活用
-- After Effectsを中心とした動画制作・モーショングラフィックス
-- エンジニアリングとクリエイティブを組み合わせた制作フロー設計
+- 要件整理、設計、実装、検証、文書化まで、工程に応じたAI活用
+- Python、VBA、UiPathを使った業務自動化
+- WordPressサイトの構築・運用
+- Git、SourceTree、WinMergeを使った変更管理と差分確認
+- 機密情報や認証情報の扱いを意識した、安全性重視の開発
+- After Effectsを中心としたモーショングラフィックス・動画制作
+- エンジニアリングと動画制作を組み合わせたワークフロー設計
 
 ---
 
 ## AI-driven Development
 
-AIエージェントや生成AIを、開発、調査、文章作成、業務整理、自動化へ活用しています。単一のツールに依存せず、目的や工程に応じて使い分けています。
+SHIFT AIで生成AIやAIエージェントについて学びながら、開発、調査、文章作成、業務整理、自動化に取り入れています。
 
-- **実装・コード解析・改修・リファクタリング：** Codex、Claude Code、Google Antigravity
-- **調査・文章作成・情報整理：** ChatGPT、Claude、Gemini、Perplexity
-- **ワークフロー・ローカルAI検証：** Dify、MCP、Ollama、Gemma系モデル
-- **開発・差分確認：** Visual Studio Code、Git、SourceTree、WinMerge
+単一のツールだけに依存せず、目的や工程に合わせて使い分けています。
 
-現在はCodexを中心に、要件整理、実装、レビュー、テスト、ドキュメント作成まで、一連の開発工程でAIを活用しています。
+- **要件整理・調査・設計・文書化：** ChatGPT、Claude、Gemini、Perplexity
+- **実装・コード解析・改修・検証：** Codex、Claude Code、Google Antigravity
+- **AIワークフロー・エージェント検証：** Dify、MCP
+- **ローカルLLM環境・モデル検証：** Ollama、Gemma系モデル
+- **開発・変更管理：** Visual Studio Code、Git、GitHub、SourceTree、WinMerge
+
+現在はCodexを中心に、要件整理、実装、コードレビュー、テスト、ドキュメント作成まで、一連の開発工程でAIを活用しています。
+
+AIが生成したコードや文章をそのまま採用するのではなく、変更内容と理由を確認し、必要に応じて修正してから取り込んでいます。
 
 ---
 
 ## Security and Quality
 
-セキュリティは、AI活用と開発における最重要事項の一つとして扱っています。AIの生成速度だけを優先せず、品質、正確性、安全性、保守性、再現性を人間が確認します。
+AIや外部サービスを利用する際は、セキュリティと情報管理を特に重視しています。
 
-- AIへ入力する前に情報の機密性を確認し、非公開プロジェクトの内部情報を公開しない
+- AIへ入力する前に、情報の機密性と公開可否を確認する
+- 非公開プロジェクトの内部情報を必要以上に共有しない
 - APIキー、認証情報、秘密情報を公開リポジトリへ含めない
 - 環境変数や非公開設定をソースコードから分離する
-- 公開範囲を必要最小限にする
+- 外部公開する範囲を必要最小限にする
 - Cloudflare Tunnel / Zero Trustを利用してアクセスを制御する
-- GitでAIによる変更差分を確認する
-- 必要に応じてWinMergeで変更内容を視覚的に確認する
-- テスト、実行結果、公式ドキュメントや信頼できる情報源を人間が確認する
-- AIの出力を鵜呑みにせず、変更内容と理由を確認してから採用する
+- Gitで変更履歴を管理し、AIによる変更差分を確認する
+- 必要に応じてWinMergeで差分を視覚的に確認する
+- テスト、実行結果、公式ドキュメントや信頼できる情報源を確認する
+- 変更理由を理解できない状態では採用しない
+
+生成速度だけを優先せず、正確性、安全性、保守性、再現性を確認したうえで、最終判断は人間が行う方針です。
 
 ---
 
-## Technical Skills
+## Engineering Experience
 
-### Programming / Development
+- AWS環境を利用したRPA・業務システム開発
+- UiPathを使ったRPA開発
+- VBAによるExcel業務の自動化・効率化
+- VB.NET、C#による業務システム開発
+- C++による医療機器関連システム開発
+- Unityを使ったVRアプリケーション開発
+- Python、WordPress、AIエージェントを使った個人開発・Web運用
 
-- Python
-- VBA
-- VB.NET
-- C#
-- C++
-- PHP
-- JavaScript
-- HTML / CSS
-
-### Web / Cloud / Automation
-
-- WordPress / Gutenberg
-- AWS
-- GCP API
-- Docker
-- Cloudflare Tunnel / Zero Trust
-- UiPath / RPA
-- Git / GitHub
-- SourceTree / WinMerge
-
-### AI / Agent Tools
-
-- ChatGPT
-- Claude / Claude Code
-- Gemini
-- Perplexity
-- Codex
-- Google Antigravity
-- Dify
-- MCP
-- Ollama
-- Gemma系モデル
+正確性、安全性、保守性が求められる開発に携わってきました。
 
 ---
 
-## Engineering Background
+## Career Background
 
-- AWS環境を利用したRPA・業務システム開発に約2年間従事
-- UiPath、VBA、VB.NET、C#を使用した自動化・業務改善
-- C++を使用した医療機器関連システム開発
-- Unityを使用したVRアプリケーション開発
-- Python、WordPress、AIエージェントを活用した個人開発・Web運用
+青山学院大学経営学部に在籍後、会計事務所および企業の財務・経理部門で勤務しました。
 
-会計・財務関連業務の経験もあり、業務理解、要件整理、正確性を意識した開発を心掛けています。
+その後、Webデザインの学習をきっかけにPHPへ触れ、埼玉県内の職業訓練校でPHP、Java、ExcelなどのWeb・PCスキルを学びました。
+
+職業訓練修了後は、アクセンチュア株式会社にRPAエンジニアとして入社し、AWS環境を利用したRPA・業務システム開発に約2年間携わりました。
+
+その後、株式会社リベラルセンスおよび株式会社スマートテクノロジーに在籍し、常駐先でC++を使った医療機器関連システムの開発に携わりました。
+
+VRプロフェッショナルアカデミーでは、Unityを使ったVRアプリケーション開発を経験しました。
+
+エンジニアリングに加えてデザインや映像表現への理解を深めるため、デジタルハリウッドオンラインのMayaコースを8か月で修了しました。Studio USやUdemyの教材も利用し、動画制作を継続的に学んでいます。
+
+---
+
+## Web / Cloud / Infrastructure
+
+- WordPressサイトの構築・運用
+- HTML、CSS、JavaScript、PHPによる開発・調整
+- Dockerを使った開発・検証環境の構築
+- Google Cloud APIを利用したAI・Web機能の検証
+- Cloudflare Tunnelを使った公開環境の構築
+- Cloudflare Zero Trustを意識したアクセス制御
+- Rank Math Proを使ったSEO設定
+- PageSpeed Insightsを使った表示性能の確認・改善
+- ブランチ、コミット、Pull Requestを使ったGitHubでの開発フロー
+
+---
+
+## Technologies
+
+| 区分 | 技術・ツール |
+|---|---|
+| 現在扱っている技術 | Python、PHP、JavaScript、HTML、CSS、WordPress、Git、GitHub、Docker、Google Cloud、Cloudflare |
+| 実務・開発経験のある技術 | AWS、UiPath、VBA、VB.NET、C#、C++、Unity |
+| AI・エージェント | ChatGPT、Claude、Claude Code、Gemini、Perplexity、Codex、Google Antigravity、Dify、MCP、Ollama、Gemma系モデル |
+| 開発・変更管理 | Visual Studio Code、SourceTree、WinMerge |
 
 ---
 
 ## AI × Video Production
 
-エンジニアリングだけでなく、動画制作やモーショングラフィックスにも継続的に取り組んでいます。
+エンジニアリングだけでなく、動画制作やモーショングラフィックスにも継続して取り組んできました。
 
-Studio USやUdemyの教材、学習と自主制作を通じて、Adobe製品を使用した動画・画像制作を学んできました。特にAfter Effectsを使用したモーショングラフィックス、アニメーション、映像合成を得意としています。
+Studio USやUdemyの教材、学習と自主制作を通じて、Adobe製品を使った動画・画像制作を学んでいます。
+
+特にAfter Effectsを使ったモーショングラフィックス、アニメーション、映像合成を得意としています。
+
+Adobe製品については実務経験ではなく、学習と自主制作を通じて約2年間使用しています。
 
 ### Video / Design Tools
 
@@ -119,38 +138,50 @@ Studio USやUdemyの教材、学習と自主制作を通じて、Adobe製品を�
 - **Substance 3D：** 3Dテクスチャ制作
 - **Stable Diffusion：** 画像生成・制作支援
 
-VRプロフェッショナルアカデミーでは、Unityを使用したVRアプリケーション開発を経験しました。デジタルハリウッドオンラインのMayaコースを8か月で修了し、3DCG、デザイン、画像・映像制作への理解を深めました。
+今後はAIエージェントやスクリプトを使い、After EffectsやPremiere Proによる動画制作の一部を効率化する予定です。
 
-今後はAIエージェント、スクリプト、Adobe製品を組み合わせ、After EffectsやPremiere Proを使用した動画制作工程の効率化・自動化に取り組む予定です。
-
-AIによる企画・構成・素材準備と、After Effectsによる表現力を組み合わせ、制作時間を短縮しながら品質を維持できる動画制作フローの構築を目指しています。
+企画や構成の整理、素材準備、定型作業、確認工程などを効率化し、人が時間をかけるべき表現や品質調整に集中できる制作フローを目指しています。
 
 ### Portfolio
 
-- Motion Graphics Portfolio — Coming Soon
-- AI-assisted After Effects / Premiere Pro Production Workflow — Coming Soon
+- **Motion Graphics Portfolio — Coming Soon**
+- **AI-assisted After Effects / Premiere Pro Workflow — Coming Soon**
+
+完成後は、作品だけでなく、使用した技術、自動化した工程、人が判断・調整した工程、制作時間の変化なども紹介する予定です。
 
 ---
 
 ## Current Projects
 
-### AIを活用したWeb運用
+### AIを活用した業務・プロジェクト管理ツール
 
-非公開のWordPressサイトで、AIを活用したコンテンツ制作、情報整理、運用効率化に取り組んでいます。
+個人事業におけるタスク、進捗、改善履歴などを整理・管理するためのWebツールを、非公開で設計・開発しています。
 
-公開範囲と機密情報を管理しながら、GCP API、Docker、Cloudflare Tunnel / Zero Trustなどを利用し、安全性と保守性を意識して運用しています。
+AIエージェントや各種AI開発支援ツールを、要件整理、設計、実装、レビュー、テスト、ドキュメント作成に利用しています。
 
-### 業務・プロジェクト管理ツール
+将来の製品化も検討しているため、本体ソースコードや詳細仕様は公開していません。
 
-個人利用の非公開ツールとして、案件、タスク、進行状況、作業履歴を整理する業務・プロジェクト管理環境を開発しています。
+### 非公開のWordPressサイト
 
-AIエージェントを活用しながら、要件整理、実装、差分確認、テスト、人間による承認を含む開発フローを実践しています。
+非公開のWordPressサイトを個人で設計・構築・運用しています。
+
+- Rank Math Proを使ったSEO設定
+- SEO・AEOを意識したサイト・コンテンツ構造
+- PageSpeed Insightsを使った表示性能の確認・改善
+- Gitによる変更管理
+- Dockerを使った開発・検証環境
+- Cloudflare Tunnel / Zero Trustを意識した接続構成
+- Google Cloud APIを使ったAI・Web機能の検証
+- コンテンツの品質、正確性、独自性、信頼性を重視した運用
+- プラグインの選定、設定、更新、動作確認
+
+サイト名、URL、対象地域、対応言語数、本番環境の詳細は、非公開プロジェクトのため記載していません。
 
 ### AI × 動画制作フロー
 
-After EffectsとPremiere Proを中心に、AIエージェントやスクリプトを利用して、企画、構成、素材準備、編集、確認工程を効率化する制作フローを計画しています。
+After EffectsとPremiere Proを中心に、AIエージェントやスクリプトを使って動画制作工程を効率化するワークフローを準備しています。
 
-現時点では構想・準備段階であり、完成後に制作工程、使用技術、自動化した範囲、人間が判断した範囲、制作時間の変化をポートフォリオとして公開する予定です。
+現時点では構想・準備段階です。完成後に、モーショングラフィックス作品と制作フローをポートフォリオとして公開する予定です。
 
 ---
 
@@ -181,16 +212,16 @@ After EffectsとPremiere Proを中心に、AIエージェントやスクリプ�
 
 ## Development Policy
 
-- AIは開発や制作を支援する手段として利用し、最終判断は人間が行う
-- 変更はGitで管理し、差分を確認してから採用する
-- テスト、実行確認、公式情報との照合を行う
-- セキュリティ、品質、保守性、再現性を優先する
-- 非公開情報、認証情報、内部構成を必要以上に公開しない
+- 変更前に目的と影響範囲を整理する
+- Gitで変更履歴を管理し、差分を確認する
+- 実行結果、テスト結果、公式情報を確認する
+- 機密情報を必要以上に共有しない
+- 小さく、確認可能で、元に戻せる変更を重視する
 - 完成していない機能や成果を、完成済みとして表現しない
 
 ---
 
 ## Contact
 
-- **Website:** https://monaka-studio.com/
-- **Email:** contact@monaka-studio.com
+- **Website:** [monaka-studio.com](https://monaka-studio.com/)
+- **Email:** [contact@monaka-studio.com](mailto:contact@monaka-studio.com)
