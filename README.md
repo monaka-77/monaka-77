@@ -82,7 +82,7 @@ Adobe製品は実務経験ではなく、約2年間の学習・自主制作で�
 
 ### 取得資格・認定証
 
-- Google AI プロフェッショナル認定証
+- Google AI Professional Certificate（Google Career Certificates／Coursera）修了
 - 生成AIパスポート
 - VBAエキスパート Excel VBA スタンダード
 - PHP5技術者認定初級試験
