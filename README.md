@@ -185,28 +185,35 @@ After EffectsとPremiere Proを中心に、AIエージェントやスクリプ�
 
 ---
 
-## Qualifications / Learning
+## 資格・認定
 
-### 取得資格・認定
+Web開発、業務自動化、3DCG・映像制作、生成AIなど、実務や個人制作に必要な領域を継続的に学習しています。
 
-- 生成AIパスポート
-- VBAエキスパート Excel VBA スタンダード
-- PHP5技術者認定初級試験
-- Webクリエイター能力認定試験（HTML5対応版）
-- Unity 認定アソシエイト：ゲーム開発者
-- 実用英語技能検定 2級
+- 2025年11月　生成AIパスポート 取得
+- 2021年12月　Unity 認定アソシエイト：ゲーム開発者 取得
+- 2019年4月　VBAエキスパート Excel VBA スタンダード 取得
+- 2018年1月　MOS：Microsoft Office Excel 2013 Specialist 取得
+- 2018年1月　MOS：Microsoft Office Word 2013 Specialist 取得
+- 2017年9月　PHP5技術者認定初級試験 取得
+- 2016年9月　Webクリエイター能力認定試験（HTML5対応版）取得
+- 1999年1月　実用英語技能検定 2級 取得
 
-### 修了プログラム
+---
 
-- Google AI Professional Certificate（Google Career Certificates／Coursera）修了
-- デジタルハリウッドオンライン Mayaコース（8か月）修了
-- VRプロフェッショナルアカデミー 修了
+## 修了プログラム
 
-### 継続学習
+- 2026年6月　Google AI Professional Certificate（Google Career Certificates／Coursera）修了
+- 2025年5月　デジタルハリウッドオンライン Mayaコース（8か月）修了
+- 2020年8月　VRプロフェッショナルアカデミー VRエキスパートコース 修了
+- 2015年8月　社会福祉法人東京コロニー 職能開発室「HTML5で作るスマートフォンアプリ」修了
 
-- SHIFT AIで生成AI、AIエージェント、業務活用、セキュリティを継続学習
-- Studio USやUdemyの教材を利用して動画制作を継続学習
-- G検定 学習中
+---
+
+## 継続学習
+
+- 2026年7月〜現在　G検定 学習中（2026年9月受験予定）
+- 2025年3月〜現在　Studio US・Udemyの教材を活用し、動画制作を継続学習。制作時の復習・参照にも活用しながら、AIエージェントを取り入れた動画制作・自動化にも取り組んでいます
+- 2024年10月〜現在　SHIFT AIで生成AI、AIエージェント、業務活用、セキュリティを継続学習
 
 ---
 
