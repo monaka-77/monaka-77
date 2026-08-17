@@ -2,7 +2,7 @@
 
 Web・業務システム開発を約3年経験し、現在はPython、WordPress、AIエージェントを活用した個人開発や業務効率化に取り組んでいます。
 
-AWS環境でのRPA・業務システム開発には約2年間携わり、UiPath、VBA、VB.NET、C#などを使用してきました。現在はCodexを中心に、要件整理、実装、コードレビュー、テスト、ドキュメント作成まで、一連の開発工程にAIを取り入れています。
+AWS環境でのRPA・業務システム開発には約2年間携わり、UiPath、VBA、VB.NET、C#などを使用してきました。現在はChatGPT WorkとCodexを中心に、要件整理、設計、実装、コードレビュー、テスト、ドキュメント作成まで、一連の開発工程にAIを取り入れています。
 
 また、After Effectsを中心とした動画制作にも継続して取り組んでいます。今後はAIエージェントやスクリプトを制作工程にも取り入れ、品質を保ちながら定型作業を効率化できるワークフローの構築を目指しています。
 
@@ -55,7 +55,8 @@ After EffectsとPremiere Proを中心に、AIエージェントやスクリプ�
 | --- | --- |
 | 現在扱っている技術 | Python、PHP、JavaScript、HTML、CSS、WordPress、Git、GitHub、Docker、Google Cloud、Cloudflare |
 | 実務・開発経験のある技術 | AWS、UiPath、VBA、VB.NET、C#、C++、Unity |
-| AI・エージェント | ChatGPT、Claude、Claude Code、Gemini、Perplexity、Codex、Google Antigravity、Dify、MCP、Ollama、Gemma系モデル |
+| AI・エージェント | ChatGPT、ChatGPT Work、Claude、Claude Code、Gemini、Perplexity、Codex、Google Antigravity、Dify、MCP、Ollama、Gemma系モデル |
+| 知識管理・リサーチ | Obsidian、NotebookLM |
 | 開発・変更管理 | Visual Studio Code、SourceTree、WinMerge |
 | 動画・デザイン | After Effects、Premiere Pro、Photoshop、Illustrator、Maya、Blender、Substance 3D、Stable Diffusion |
 
@@ -63,12 +64,15 @@ After EffectsとPremiere Proを中心に、AIエージェントやスクリプ�
 
 ## AI-driven Development
 
-現在はCodexを中心に、目的や工程に応じて複数のAIツールを使い分けています。
+現在はChatGPT WorkとCodexを中心に、目的や工程に応じて複数のAIツールを使い分けています。
 
-- **要件整理・調査・設計・文書化**：ChatGPT、Claude、Gemini、Perplexity
+- **要件整理・調査・設計・文書化**：ChatGPT、ChatGPT Work、Claude、Gemini、Perplexity
 - **実装・コード解析・改修・検証**：Codex、Claude Code、Google Antigravity
 - **AIワークフロー・エージェント検証**：Dify、MCP
+- **知識管理・資料整理・横断的な参照**：Obsidian、NotebookLM
 - **ローカルLLM環境・モデル検証**：Ollama、Gemma系モデル
+
+Obsidianはプロジェクトごとの知識、判断履歴、設計資料などを蓄積・関連付けるための知識管理基盤として活用し、NotebookLMは複数資料をもとにした内容確認や整理、理解補助に活用しています。
 
 単一のツールだけに依存するのではなく、目的や工程に応じて使い分けています。AIが生成したコードや文章についても、変更内容と理由を確認し、必要に応じて修正したうえで利用しています。
 
