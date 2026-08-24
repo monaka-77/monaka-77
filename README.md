@@ -193,6 +193,6 @@ Web開発、業務自動化、3DCG・映像制作、生成AIなど、実務や�
 
 ## Contact
 
-- **Portfolio:** [monaka-studio.com/portfolio/](https://monaka-studio.com/portfolio/)
+- **Portfolio:** [monaka-studio.com/for-career/](https://monaka-studio.com/for-career/)
 - **Website:** [monaka-studio.com](https://monaka-studio.com/)
 - **Email:** [contact@monaka-studio.com](mailto:contact@monaka-studio.com)
